@@ -1,5 +1,5 @@
 SRC=.
-DST_DIR=/afs/cs.cmu.edu/user/jrast/www/courses/10701/
+DST_DIR=/afs/cs.cmu.edu/academic/class/10701-f25/www
 DST_CS=$(USER)@linux.gp.cs.cmu.edu:$(DST_DIR)
 DST_AN=$(USER)@linux.andrew.cmu.edu:$(DST_DIR)
 
